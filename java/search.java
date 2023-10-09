@@ -1,9 +1,9 @@
-import java.util.Random
+import java.util.Random;
 
-public class Main{
+public class search{
   public static void main(String args[]){
     int numbers[] = new int[10];
-    System.out.println(numbers)
+    System.out.println(numbers);
   }
 
   public int[] BubbleSort(int[] num){
